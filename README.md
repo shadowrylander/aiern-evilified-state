@@ -1,1 +1,37 @@
-# aiern-evilified-state
+## taken from:
+[spacemacs evilify](https://github.com/syl20bnr/spacemacs/blob/b7e51d70aa3fb81df2da6dc16d9652a002ba5e6b/layers/%2Bdistributions/spacemacs-base/local/evil-evilified-state/evil-evilified-state.el)
+[mohsenil85/evil-evilified-state](https://github.com/mohsenil85/evil-evilified-state)
+
+## to install
+```
+     (use-package aiern-aiernhide-state
+       :load-path "path/where/you/cloned/aiern-aiernhide-state")
+```
+
+## example
+```
+     (use-package dired
+       :defer t
+       :config
+       (aiernhide-state-aiernhide dired-mode dired-mode-map
+                                "j"         'aiern-next-line
+                                "k"         'aiern-previous-line
+                                "-"         'dired-up-directory
+                                "0"         'dired-back-to-start-of-files
+                                (kbd "C-j") 'dired-next-subdir
+                                (kbd "C-k") 'dired-prev-subdir
+                                "I"         'vinegar/dotfiles-toggle
+                                (kbd "~")   '(lambda ()(interactive) (find-alternate-file "~/"))
+                                (kbd "RET") 'dired-find-file-other-window
+                                "f"         'helm-find-files
+                                "J"         'dired-goto-file
+                                (kbd "C-f") 'find-name-dired
+                                "H"         'diredp-dired-recent-dirs
+                                "T"         'dired-tree-down
+                                "K"         'dired-do-kill-lines
+                                "r"         'revert-buffer
+                                (kbd "C-r") 'dired-do-redisplay
+                                "gg"        'aiern-goto-first-line
+                                "G"         'aiern-goto-line))
+
+```
