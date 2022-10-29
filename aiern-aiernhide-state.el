@@ -25,7 +25,7 @@
 
 ;;; Commentary:
 
-;; Define a `aiernhide' aiern state inheriting from `emacs' state and
+;; Define an `aiernhide' aiern state inheriting from `emacs' state and
 ;; setting a minimalist list of Vim key bindings (like navigation, search, ...)
 
 ;; The shadowed original mode key bindings are automatically reassigned

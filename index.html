@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-10-29 Sat 06:53 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Jeet Ray" />
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="https://combinatronics.io/sylvorg/settings/main/src/styles/primary/syvl.css" />
+<link rel="icon" href="https://combinatronics.io/sylvorg/settings/main/src/icons/favicons/shiny-zigzagoon-galar.ico" sizes="any" />
+<link rel="icon" href="https://combinatronics.io/sylvorg/settings/main/src/icons/favicons/shiny-zigzagoon-galar.svg" />
+<link rel="manifest" href="https://combinatronics.io/sylvorg/settings/main/manifest.json" />
+<link rel="stylesheet" type="text/css" href="https://combinatronics.io/sylvorg/settings/main/src/styles/highlight/paraiso-dark.min.css" />
+<script src="https://combinatronics.io/sylvorg/settings/main/src/scripts/highlight/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+<div class="header">
+<h1>We Are Syvlorg.</h1>
+<a href="">About Me</a>
+<a href="">About This Website</a>
+<a href="">About Syvlorg</a>
+<a href="https://resume.syvl.org">Résumé</a>
+<a href="https://index.syvl.org">Index</a>
+</div>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#taken-from">taken from:</a></li>
+<li><a href="#to-install">to install</a></li>
+<li><a href="#example">example</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-taken-from" class="outline-2">
+<h2 id="taken-from">taken from:</h2>
+<div class="outline-text-2" id="text-taken-from">
+<ul class="org-ul">
+<li><a href="https://github.com/syl20bnr/spacemacs/blob/b7e51d70aa3fb81df2da6dc16d9652a002ba5e6b/layers/%2Bdistributions/spacemacs-base/local/evil-evilified-state/evil-evilified-state.el">spacemacs
+evilify</a></li>
+<li><a href="https://github.com/mohsenil85/evil-evilified-state">mohsenil85/evil-evilified-state</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-to-install" class="outline-2">
+<h2 id="to-install">to install</h2>
+<div class="outline-text-2" id="text-to-install">
+<pre class="example" id="orge25c90e">
+       (use-package aiern-aiernhide-state
+         :load-path "path/where/you/cloned/aiern-aiernhide-state")
+</pre>
+</div>
+</div>
+
+<div id="outline-container-example" class="outline-2">
+<h2 id="example">example</h2>
+<div class="outline-text-2" id="text-example">
+<pre class="example" id="orgc2d01fe">
+       (use-package dired
+         :defer t
+         :config
+         (aiernhide-state-aiernhide dired-mode dired-mode-map
+                                  "j"         'aiern-next-line
+                                  "k"         'aiern-previous-line
+                                  "-"         'dired-up-directory
+                                  "0"         'dired-back-to-start-of-files
+                                  (kbd "C-j") 'dired-next-subdir
+                                  (kbd "C-k") 'dired-prev-subdir
+                                  "I"         'vinegar/dotfiles-toggle
+                                  (kbd "~")   '(lambda ()(interactive) (find-alternate-file "~/"))
+                                  (kbd "RET") 'dired-find-file-other-window
+                                  "f"         'helm-find-files
+                                  "J"         'dired-goto-file
+                                  (kbd "C-f") 'find-name-dired
+                                  "H"         'diredp-dired-recent-dirs
+                                  "T"         'dired-tree-down
+                                  "K"         'dired-do-kill-lines
+                                  "r"         'revert-buffer
+                                  (kbd "C-r") 'dired-do-redisplay
+                                  "gg"        'aiern-goto-first-line
+                                  "G"         'aiern-goto-line))
+</pre>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Jeet Ray</p>
+<p class="date">Created: 2022-10-29 Sat 06:53</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
