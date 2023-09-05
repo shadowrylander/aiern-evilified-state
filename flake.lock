@@ -347,8 +347,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -413,8 +413,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts_2"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -480,8 +480,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts_3"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -547,8 +547,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts_4"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -615,8 +615,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts_5"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -684,8 +684,8 @@
         "xero-figlet-fonts": "xero-figlet-fonts_6"
       },
       "locked": {
-        "lastModified": 1693874961,
-        "narHash": "sha256-1TvKG6WuYPh6FBh8Ch3icJ3vCkwlIfnLf7Jrh2Sm9i0=",
+        "lastModified": 1693888681,
+        "narHash": "sha256-ae0wXP9u0zJaCcJqh+3uW/tJCnydgtIT38PY16Jc8VE=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/bundle"
@@ -1237,8 +1237,8 @@
         ]
       },
       "locked": {
-        "lastModified": 1693875380,
-        "narHash": "sha256-X+NPRTTSP2THsI18VFx8w69b01yMBVIcgdE73sdst8k=",
+        "lastModified": 1693880823,
+        "narHash": "sha256-iGlRuzcHVulO3ShBrOs96rckC4eUf+0V94HQ+MVoJno=",
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/.emacs.d/lib/aiern"
       },
@@ -1266,8 +1266,8 @@
         ]
       },
       "locked": {
-        "lastModified": 1693875323,
-        "narHash": "sha256-GqlZpJJLNTBnN2XK7SMWsWL31xYqWWKUbQJtnCPgsDA=",
+        "lastModified": 1693880766,
+        "narHash": "sha256-/IQF3N4yncV9p4ugmLPY3x7taJk9Zhfzj2jUSl+8P4U=",
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/.emacs.d/lib/alloy"
       },
@@ -1296,8 +1296,8 @@
         ]
       },
       "locked": {
-        "lastModified": 1693875278,
-        "narHash": "sha256-3rPjs+7fD9ABia436enKoimYyStL+32eiBW0qCqYkVs=",
+        "lastModified": 1693887022,
+        "narHash": "sha256-Hetm/eChPQkZqWM7XQRY7BLm4/WHnbIXOQFgCYLH8hA=",
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/.emacs.d/lib/deino"
       },
@@ -1328,8 +1328,8 @@
         ]
       },
       "locked": {
-        "lastModified": 1693875225,
-        "narHash": "sha256-n89vd0HSssaeEXJONe4GD9ILLz5+G491LJkClS3ybZc=",
+        "lastModified": 1693887020,
+        "narHash": "sha256-N5XyopzOYgb7PaN3HjXnoUVJZTCoCAgIDhJzShI+bsI=",
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/.emacs.d/lib/janus"
       },
@@ -1361,8 +1361,8 @@
         ]
       },
       "locked": {
-        "lastModified": 1693875175,
-        "narHash": "sha256-5nybDI6UteofmejA06hBq1BaoNEWkilw/NQH+HC2k3o=",
+        "lastModified": 1693888751,
+        "narHash": "sha256-oE+OFDG9UOAo8QIsrgw7S31gt/2BZV4ufzShO0IcnVE=",
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/.emacs.d/lib/meq"
       },
@@ -6689,11 +6689,11 @@
     },
     "nur": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -6704,11 +6704,11 @@
     },
     "nur_2": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -6719,11 +6719,11 @@
     },
     "nur_3": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -6734,11 +6734,11 @@
     },
     "nur_4": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -6749,11 +6749,11 @@
     },
     "nur_5": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -6764,11 +6764,11 @@
     },
     "nur_6": {
       "locked": {
-        "lastModified": 1693878030,
-        "narHash": "sha256-AThkjxxhFg/yw8MNNLw0g37cdo1th4SO2gdayBu0SEA=",
+        "lastModified": 1693884678,
+        "narHash": "sha256-KY5b5XWXcJxzbe8EkwZC2OULF3ml8p/UhwhJjY/qzgA=",
         "owner": "nix-community",
         "repo": "nur",
-        "rev": "a2d61643ebf93243c5a74bb5d27aa6d654638275",
+        "rev": "46c86c327cc8591c861d065edc82939aa156d074",
         "type": "github"
       },
       "original": {
@@ -9309,8 +9309,8 @@
         "sh": "sh"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
@@ -9341,8 +9341,8 @@
         "sh": "sh_2"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
@@ -9373,8 +9373,8 @@
         "sh": "sh_3"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
@@ -9405,8 +9405,8 @@
         "sh": "sh_4"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
@@ -9437,8 +9437,8 @@
         "sh": "sh_5"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
@@ -9469,8 +9469,8 @@
         "sh": "sh_6"
       },
       "locked": {
-        "lastModified": 1693874959,
-        "narHash": "sha256-WGv93ilkMcw3Yjte3Y+5iewgBzXbnoLc0eNC9RWM198=",
+        "lastModified": 1693888680,
+        "narHash": "sha256-LyCcw9AF1U8fxw1KolT5t/ch/cnKtQoAHF/9PSc642U=",
         "submodules": true,
         "type": "git",
         "url": "file:///home/shadowrylander/shadowrylander/sylveon/syvlorg/valiant"
