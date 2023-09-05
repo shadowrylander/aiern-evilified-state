@@ -33,7 +33,7 @@
     "Define an `aiernhide' aiern state inheriting from `emacs' state and setting a minimalist list of Vim key bindings (like navigation, search, ...)";
   inputs = rec {
     bundle = {
-      url = "git+https://github.com/sylvorg/bundle.git";
+      url = "https://github.com/sylvorg/bundle.git";
       type = "git";
       submodules = true;
     };
